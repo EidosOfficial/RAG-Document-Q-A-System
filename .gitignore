@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+
+# Local Documentation
+spec.md
+project_description.txt
+documents/

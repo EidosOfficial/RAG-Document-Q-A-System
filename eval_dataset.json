@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What certification credential for strength and conditioning professionals is offered through the NSCA?",
+    "expected_source": "NSCA -National Strength & Conditioning Association"
+  },
+  {
+    "id": 2,
+    "question": "According to 10x Is Easier Than 2x, who is the first 'Who' that young entrepreneurs should hire?",
+    "expected_source": "10x-is-easier-than-2x"
+  },
+  {
+    "id": 3,
+    "question": "In ACSM's Guidelines for Exercise Testing, what does the abbreviation ADL stand for?",
+    "expected_source": "ACSM&_039_s Guidelines for Exercise Testing and Prescription"
+  },
+  {
+    "id": 4,
+    "question": "What fundamental frontend skills are listed as 'must-have' for the Associate Engineer role in AccentureJD.md?",
+    "expected_source": "AccentureJD.md"
+  },
+  {
+    "id": 5,
+    "question": "In Data Structures & Algorithms in Java, what search algorithm is used to perform fast searches on an ordered array?",
+    "expected_source": "Data Structures & Algorithms in Java - Robert Lafore"
+  },
+  {
+    "id": 6,
+    "question": "What is the title of Chapter 16 in the book Is This Anything?",
+    "expected_source": "Is This Anything PDF.pdf"
+  },
+  {
+    "id": 7,
+    "question": "According to JDFullStack.md, how many years of professional experience in Fullstack Development are required for Job Description 1?",
+    "expected_source": "JDFullStack.md"
+  },
+  {
+    "id": 8,
+    "question": "What are the three essential components of a Generative AI agent's cognitive architecture described in Newwhitepaper_Agents2.pdf?",
+    "expected_source": "Newwhitepaper_Agents2.pdf"
+  },
+  {
+    "id": 9,
+    "question": "What core technical skills in Python, FastAPI, and PostgreSQL are highlighted in Neeraj Karde's resume?",
+    "expected_source": "Resume.pdf"
+  },
+  {
+    "id": 10,
+    "question": "In Swift, what operator is used to supply a default value when an optional variable is nil?",
+    "expected_source": "Ultimate SwiftUI Handbook for IOS Developers"
+  },
+  {
+    "id": 11,
+    "question": "In Neovim, what custom shortcut keybinding is configured to toggle the Neo-tree file tree view?",
+    "expected_source": "nvim-keybindings.md"
+  },
+  {
+    "id": 12,
+    "question": "In tmux, what keybinding shortcut is used to split a pane horizontally?",
+    "expected_source": "tmux-keybindings.md"
+  },
+  {
+    "id": 13,
+    "question": "In iOS development, what architecture pattern uses State, Action, Reducer, and Store as part of the Composable Architecture?",
+    "expected_source": "iOS Interview HandBook Digital Copy.pdf"
+  },
+  {
+    "id": 14,
+    "question": "In the ReAct framework for AI agents, what intermediate step sequence is repeated before providing a final answer?",
+    "expected_source": "Newwhitepaper_Agents2.pdf"
+  }
+]
