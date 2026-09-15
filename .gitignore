@@ -1,6 +1,9 @@
-.venv/
+# python
+**/.venv/
+**/__pycache__/
+
+# environments
 .env
-__pycache__/
 
 # Local Documentation
 spec.md
